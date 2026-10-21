@@ -10,5 +10,8 @@ I am a student at Ugsot Pune Campus, currently learning Git and GitHub.
 ## Projects
 - tbd: working on roblox game
 
+## Social 
+- GitHub: https://github.com/x0Suji0x
+- LinkedIn: https://www.linkedin.com/in/sujaykumartudu
 
 
